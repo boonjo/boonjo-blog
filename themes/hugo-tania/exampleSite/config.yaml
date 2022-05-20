@@ -1,4 +1,4 @@
-baseurl: "https://boonjo.github.io/"
+baseurl: "https://boonjo.netlify.app"
 languageCode: "en-us"
 title: "Hugo Tania"
 theme: "hugo-tania"

@@ -1,4 +1,4 @@
-baseurl = "https://example.com"
+baseurl = "https://boonjo.netlify.app"
 languageCode = "en-us"
 title = "Hugo Tania"
 theme = "hugo-tania"
