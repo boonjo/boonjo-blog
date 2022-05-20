@@ -1,4 +1,4 @@
 baseURL = 'https://boonjo.netlify.app'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'boonjo blog'
 theme = "hugo-tania"
