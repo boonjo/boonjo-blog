@@ -19,7 +19,7 @@ params:
   
   siteName: "Hugo Tania is Amazing"
   siteDesc: "Hugo is Absurdly Fast!"
-  author: "Hugo Tania"
+  author: "Joonbo Shim"
 
   colorScheme:
     # Enable toggle colorScheme
@@ -36,9 +36,9 @@ params:
   # Show your socail information with icon on index bio with `_index.md` content.
   socialOptions:
     dev-to:
-    email:
+    email: joonbo@gmail.com
     facebook:
-    github:
+    github: 
     instagram:
     linkedin:
     medium:
