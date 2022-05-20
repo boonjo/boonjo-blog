@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://boonjo.github.io/articles/</loc>
+    <loc>https://boonjo.netlify.app/articles/</loc>
   </url><url>
-    <loc>http://boonjo.github.io/categories/</loc>
+    <loc>https://boonjo.netlify.app/categories/</loc>
   </url><url>
-    <loc>http://boonjo.github.io/</loc>
+    <loc>https://boonjo.netlify.app/</loc>
   </url><url>
-    <loc>http://boonjo.github.io/tags/</loc>
+    <loc>https://boonjo.netlify.app/tags/</loc>
   </url>
 </urlset>
