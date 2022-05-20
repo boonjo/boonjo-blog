@@ -1,6 +1,6 @@
 baseurl: "https://boonjo.netlify.app"
 languageCode: "en-us"
-title: "Hugo Tania"
+title: "boonjo blog"
 theme: "hugo-tania"
 paginate: 6
 
