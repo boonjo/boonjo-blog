@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/articles/</loc>
+    <loc>http://boonjo.github.io/articles/</loc>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://boonjo.github.io/categories/</loc>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>http://boonjo.github.io/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://boonjo.github.io/tags/</loc>
   </url>
 </urlset>
